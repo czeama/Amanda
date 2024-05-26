@@ -27,9 +27,8 @@ To achieve the objectives, the project will employ machine learning techniques, 
 3. Teach participants the basics of working on a Data Science project, emphasizing quality to ensure the final product can be added to their CVs as a public repository example.
 
 ```
-_This project is carried out by students eager to develop their skills in data analysis._
+  This project is carried out by students eager to develop their skills in data analysis.
 ```
-
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
