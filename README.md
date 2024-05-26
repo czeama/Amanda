@@ -12,7 +12,7 @@ WAIT undertakes projects that address real business challenges, following the Pa
 ## Problem to Solve
 Currently, WAIT has data on the declared competencies of individuals willing to work on projects, but lacks insight into how these competencies are distributed and can be effectively utilized. 
 
-    > **The project's challenge is to extract valuable insights 
+**The project's challenge is to extract valuable insights 
 from the collected data, which will aid in constructing efficient project teams.**
 
 ## Machine Learning Methods
@@ -26,7 +26,7 @@ To achieve the objectives, the project will employ machine learning techniques, 
 2. Analyze available data to provide valuable insights regarding the WAIT community.
 3. Teach participants the basics of working on a Data Science project, emphasizing quality to ensure the final product can be added to their CVs as a public repository example.
 
-This project is carried out by students eager to develop their skills in data analysis.
+# _This project is carried out by students eager to develop their skills in data analysis._
 
 
 ## Setup
