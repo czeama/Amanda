@@ -28,13 +28,15 @@ To achieve the objectives, the project will employ machine learning techniques, 
 ```
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _in progress 🔜_  
 
 ## Contributors 😎
 This project is brought to you by a dedicated team of students eager to develop their skills in data analysis. Below are the contributors to this project along with links to their GitHub profiles:
 
 🔸 Natalia Siwiak 👉 [_click here_](https://github.com/nsiwiak)
+
 🔸 Amanda Czechowska 👉 [_click here_](https://github.com/czeama)
+
 🔸 Jan Zdaniewicz 👉 [_click here_](https://github.com/Zdanekk)
 
 
