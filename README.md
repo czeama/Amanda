@@ -40,4 +40,4 @@ This project is brought to you by a dedicated team of students eager to develop 
 
 🔸 Jan Zdaniewicz 👉 [_click here_](https://github.com/Zdanekk)
 
-![Getting Started](Amanda/aaa/logo.jpg)
+![logo](https://github.com/czeama/Amanda/assets/169438375/111cdb08-80ec-4b15-8b85-85648e9046a7)
