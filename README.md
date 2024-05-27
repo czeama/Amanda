@@ -1,10 +1,7 @@
 # Project People Analytics
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Project Overview 💡
 The Team Management project aims to enhance the management of project teams within the WAIT organization. WAIT is dedicated to executing projects in the fields of Artificial Intelligence (AI), Data Science, and Business Intelligence (BI). By analyzing data regarding the competencies of team members, this project seeks to improve the processes involved in forming effective project teams. The overarching goal is to leverage data-driven insights to create well-balanced, high-performing teams.
-
 
 ## Business Context 
 WAIT undertakes projects that address real business challenges, following the Passion Based Learning (PBL) methodology. This approach encourages learning and skill acquisition among individuals connected by common interests, who learn from one another.
@@ -35,10 +32,12 @@ Project is: _in progress_
 
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+## Contributors
+This project is brought to you by a dedicated team of students eager to develop their skills in data analysis. Below are the contributors to this project along with links to their GitHub profiles:
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+- Natalia Siwiak 👉 [_click here_](https://github.com/nsiwiak)
+- Amanda Czechowska 👉 [_click here_](https://github.com/czeama)
+- Jan Zdaniewicz 👉 [_click here_](https://github.com/Zdanekk)
 
 
 
