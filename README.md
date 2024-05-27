@@ -16,6 +16,7 @@ from the collected data, which will aid in constructing efficient project teams.
 To achieve the objectives, the project will employ machine learning techniques, including clustering, to segment WAIT members. This analysis aims to:
 
 🔸 Identify distinct groups of users based on their competencies.
+
 🔸 Derive interesting insights about the structure and potential of the WAIT community.
 
 ## Project Goals
