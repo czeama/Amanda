@@ -40,5 +40,4 @@ This project is brought to you by a dedicated team of students eager to develop 
 
 🔸 Jan Zdaniewicz 👉 [_click here_](https://github.com/Zdanekk)
 
-
-
+![Getting Started](C:\Users\czech\OneDrive\Pulpit\logo.png)
