@@ -27,7 +27,7 @@ To achieve the objectives, the project will employ machine learning techniques, 
 ➡️ Teach participants the basics of working on a Data Science project, emphasizing quality to ensure the final product can be added to their CVs as a public repository example.
 
 
-###**``` This project is carried out by students eager to develop their skills in data analysis. ```**
+### **``` This project is carried out by students eager to develop their skills in data analysis. ```**
 
 ## Project Status
 Project is: _in progress 🔜_  
