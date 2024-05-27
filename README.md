@@ -20,9 +20,11 @@ To achieve the objectives, the project will employ machine learning techniques, 
 🔸 Derive interesting insights about the structure and potential of the WAIT community.
 
 ## Project Goals
-1. Verify the existence of distinguishable user groups within the WAIT community.
-2. Analyze available data to provide valuable insights regarding the WAIT community.
-3. Teach participants the basics of working on a Data Science project, emphasizing quality to ensure the final product can be added to their CVs as a public repository example.
+➡️ Verify the existence of distinguishable user groups within the WAIT community.
+
+➡️ Analyze available data to provide valuable insights regarding the WAIT community.
+
+➡️ Teach participants the basics of working on a Data Science project, emphasizing quality to ensure the final product can be added to their CVs as a public repository example.
 
 ```
   This project is carried out by students eager to develop their skills in data analysis.
